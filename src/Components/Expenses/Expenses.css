@@ -6,3 +6,9 @@
     max-width: 95%;
     
   }
+
+.no-expenses {
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
